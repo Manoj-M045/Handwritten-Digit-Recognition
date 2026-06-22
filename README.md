@@ -37,5 +37,3 @@ This project demonstrates the use of Machine Learning and Computer Vision for im
 ## Author
 
 **MANOJ M**
-
-* GitHub: https://github.com/Manoj-M045
